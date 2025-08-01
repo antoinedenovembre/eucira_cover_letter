@@ -1,3 +1,3 @@
 # Cover Letter Repository
 
-This repository contains my cover letter LaTeX template.
+This repository contains Eucira's cover letter.
